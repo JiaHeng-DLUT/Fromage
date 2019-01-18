@@ -32,21 +32,7 @@ visualize users' time
 
 选择软件过程
 
-瀑布
-
 增量
-
-快速原型
-
-螺旋
-
-喷泉
-
-RUP
-
-微软
-
-极限
 
 ## 2 Feasibility Investigation
 
