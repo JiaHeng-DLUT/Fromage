@@ -38,6 +38,17 @@ visualize users' time
 
 可行性分析
 
+1. 做一款Todo类的移动app，可同时运行在Android和iOS平台
+2. 界面、手势控制
+
+![SystemFlowChart](assets/SystemFlowChart.png)
+
+![DataFlowChart 0+1](assets/DataFlowChart 0+1.png)
+
+![DataFlowChart 2](assets/DataFlowChart 2.png)
+
+
+
 ## 3 Requirement Analysis
 
 需求分析
