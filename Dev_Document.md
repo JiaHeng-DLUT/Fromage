@@ -4,9 +4,12 @@
 
 ## 0 Todo
 
-- [ ] .gitignore
+- [x] .gitignore
 - [ ] license
-- [ ] 
+
+[Flutter VS ReactNative](https://blog.csdn.net/jianggaocheng_nupt/article/details/81202441)
+
+
 
 ## 1 概述
 
@@ -43,11 +46,51 @@ visualize users' time
 
 ![SystemFlowChart](assets/SystemFlowChart.png)
 
+
+
 ![DataFlowChart 0+1](assets/DataFlowChart_0+1.png)
+
+
 
 ![DataFlowChart 2](assets/DataFlowChart_2.png)
 
 
+
+![Todo_List_Data_Dictionary](assets/Todo_List_Data_Dictionary.png)
+
+
+
+![Todo_Data_Dictionary](assets/Todo_Data_Dictionary.png)
+
+### 2.1 技术可行性
+
+![img](assets/u=3226018077,3844872726&fm=173&app=25&f=JPEG.jpg)
+
+>摘自[最火移动端跨平台方案盘点：React Native、weex、Flutter](https://baijiahao.baidu.com/s?id=1608650340331187704&wfr=spider&for=pc)
+
+最终选择：***Flutter***
+
+理由：
+
+- cross-platform, including iOS, Android and Web
+- 前景优势，可能成为未来主流的移动设备UI框架
+
+### 2.2 操作可行性
+
+本app力图简化用户的操作步骤，以达到用户通过最简单的点选输入操作实现plan
+
+### 2.3 经济可行性
+
+| Year | 投资 | 收益  | Other |
+| :--: | :--: | :---: | :---: |
+| 2019 |  0   | 2*70% |       |
+|      |      |       |       |
+|      |      |       |       |
+
+
+### 2.4 法律、社会效益可行性
+
+隐私—>security
 
 ## 3 Requirement Analysis
 

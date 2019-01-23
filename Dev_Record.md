@@ -1,3 +1,10 @@
+* 1/23/2019
+
+|     Name     | Start |  End  | Time(min) |                             Done                             |    Other     |
+| :----------: | :---: | :---: | :-------: | :----------------------------------------------------------: | :----------: |
+| 韩晨晨、贾恒 | 15:15 | 16:29 |    74     | rest parts of feasibility analysis (including initial developing plan) | [going well] |
+
+
 * 1/18/2019
 
 |     Name     | Start |  End  | Time(min) |                Done                | Other |
