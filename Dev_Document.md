@@ -37,6 +37,10 @@ visualize users' time
 
 增量
 
+清新淡雅
+
+仪式感
+
 ## 2 Feasibility Investigation
 
 可行性分析
@@ -94,11 +98,9 @@ visualize users' time
 
 ## 3 Requirement Analysis
 
-需求分析
+![E-R.png](assets/E-R.png.jpg)
 
-清新淡雅
-
-仪式感
+![StateTransitionDiagram](assets/StateTransitionDiagram.png)
 
 ## 4 High Level Design (HLD) 
 

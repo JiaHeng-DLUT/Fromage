@@ -1,3 +1,9 @@
+* 1/24/2019
+
+|     Name     | Start |  End  | Time(min) |                             Done                             |               Other                |
+| :----------: | :---: | :---: | :-------: | :----------------------------------------------------------: | :--------------------------------: |
+| 韩晨晨、贾恒 | 13:15 | 15:24 |    129    | requirement analysis (including E-R diagram and state transition diagram) | [stupid StarUML and powerdesigner] |
+
 * 1/23/2019
 
 |     Name     | Start |  End  | Time(min) |                             Done                             |    Other     |
