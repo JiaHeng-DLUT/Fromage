@@ -1,3 +1,9 @@
+* 1/25/2019
+
+|     Name     | Start |  End  | Time(min) |                          Done                           |    Feeling     |
+| :----------: | :---: | :---: | :-------: | :-----------------------------------------------------: | :------------: |
+| 韩晨晨、贾恒 | 14:12 | 16:53 |    161    | module design, database design and flutter installation | [go with baby] |
+
 * 1/24/2019
 
 |     Name     | Start |  End  | Time(min) |                             Done                             |               Other                |

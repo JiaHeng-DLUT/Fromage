@@ -102,9 +102,14 @@ visualize users' time
 
 ![StateTransitionDiagram](assets/StateTransitionDiagram.png)
 
-## 4 High Level Design (HLD) 
+## 4 High Level Design
 
-概要设计 
+|     模块     |    输入     |  输出   |                           逻辑功能                           |
+| :----------: | :---------: | :-----: | :----------------------------------------------------------: |
+| 获取Todo清单 |      *      |    *    |          [从数据库中读取Todos] [按分组生成Todo清单]          |
+|   添加Todo   | Todo object | boolean |  [输入一个Todo对象，将该对象写入数据库] [输出是否写入成功]   |
+|   修改Todo   | Todo object | boolean | [输入一个Todo对象，将新数据写入数据库并覆盖旧数据] [输出是否修改成功] |
+|   删除Todo   | Todo object | boolean | [输入一个Todo对象，将该对象从数据库中删除] [输出是否删除成功] |
 
 ## 5 Detailed(Detail?) Design
 
